@@ -2,7 +2,7 @@
 
 ## `--- Day 1: Trebuchet?! ---`
 
-Question: [Day 1, Part 2](Question.md)
+Question: [Day 1, Part 2](QUESTION.md)
 
 ### `--- Part Two ---`
 Whoops! It looks like the calculation is wrong, it looks like some of the digits are actually **spelled out with letters**, one to nine!

@@ -2,7 +2,7 @@
 
 ## `--- Day 1: Trebuchet?! ---`
 
-Question: [Day 1, Part 1](Question.md)
+Question: [Day 1, Part 1](QUESTION.md)
 
 ### `--- Part One ---`
 The solution is very easy, since we know that a wild elf has modified the input file to show her creativity skills;
