@@ -2,8 +2,8 @@
 
 ## `--- Day 1: Trebuchet?! ---`
 
-Question is the question... well self-explainatory, README is the explaination and (might include) thought-process of the solution.
+`QUESTION` is the question... well self-explainatory, `README` is the explaination and (might include) thought-process of the solution.
 
 Navigator:
-* Part 1: [Question](part_one/QUESTION.md) | [README](part_one/README.md)
-* Part 2: [Question](part_two/QUESTION.md) | [README](part_two/README.md)
+* Part 1: [`QUESTION`](part_one/QUESTION.md) | [`README`](part_one/README.md) | Available in Python & Dart
+* Part 2: [`QUESTION`](part_two/QUESTION.md) | [`README`](part_two/README.md) | Available in Python

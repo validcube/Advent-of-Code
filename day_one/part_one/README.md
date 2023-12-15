@@ -4,6 +4,11 @@
 
 Question: [Day 1, Part 1](QUESTION.md)
 
+### Navigator
+
+* Python
+* [Dart](/day_one/part_one/Dart/README.md)
+
 ### `--- Part One ---`
 The solution is very easy, since we know that a wild elf has modified the input file to show her creativity skills;
 *I gonna impressed, that for sure took a long time to do!*; what we need to do is 
@@ -11,6 +16,8 @@ we just need to read the file, filter anything that isn't an digit out, then we 
 
 Voila! We have the answer; try it out for yourself by running the code on your machine!
 
+> ![TIP]
+> This explaination is written for Python, but you can visit other languages like Dart.
 
 ```python
 # Trebuchet: Sums the first and last digit of each line.
